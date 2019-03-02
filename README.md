@@ -1,4 +1,4 @@
-# javascriptdrumkit
+# javascript-drum-kit
 
 This is a drum kit built with pure javacript, no frameworks
 check out with this link 
