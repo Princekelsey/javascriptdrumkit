@@ -1,0 +1,16 @@
+{
+  "name": "JavaScriptDrumkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d project"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://Princekelsey.github.io/javascriptdrumkit",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
